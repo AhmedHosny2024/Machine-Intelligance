@@ -2,8 +2,8 @@
 Implementation of different Machine Intelligence Algorithms
 ## 📝 Table of Contents
 
-- [Search](#Search)
 - [Intro to Python](#intro)
+- [Search](#Search)
 - [Games - Constrain Satisfaction Problems (CSP)](#Games)
 - [Reinforcement Learning](#RL)
 
@@ -15,7 +15,7 @@ Implementation of different Machine Intelligence Algorithms
 - Caesar Decipher
 
 
-## Search (Search algotithms and heuristic\Problem Set 1 - Student Version\Instructions.pdf) <a name = "Search"></a>
+## Search <a name = "Search"></a>
 - BFS
 - DFS
 - Uninformed Search
@@ -23,7 +23,7 @@ Implementation of different Machine Intelligence Algorithms
 - A*
 
 
-## Games - Constrain Satisfaction Problems (AlphBeta Search - Cryptarithmetic\Instructions.pdf) <a name = "Games"></a>
+## Games - Constrain Satisfaction Problems <a name = "Games"></a>
 - Forward Checking
 - Least Restraining Value
 - Backtracking Search
@@ -33,7 +33,7 @@ Implementation of different Machine Intelligence Algorithms
 - Alpha Beta Pruning with Move Ordering
 - Expectimax Search
 
-## Reinforcement Learning (Reinforcement Learning\Instructions.pdf) <a name = "RL"></a>
+## Reinforcement Learning <a name = "RL"></a>
 - Value Iteration
 - Sarsa
 - Q-Learning
